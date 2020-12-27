@@ -1,0 +1,6 @@
+- [] Create a vieport component
+- [] Create a base class for layers
+- [] Create Entity class (player, npc, items, etc.)
+- [] Create Player class
+- [] Create Rendering class
+- [] Create Calculating class
